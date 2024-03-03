@@ -1,5 +1,5 @@
 # Settings
-baseurl = "https://rearviewmirrormedia.com/"
+baseurl = "https://rearviewmirrormedia.com"
 languageCode = "en-us"
 title = "AutoPhugo"
 theme = "autophugo"
