@@ -1,3 +1,3 @@
-[submodule "themes/autophugo"]
-	path = themes/autophugo
-	url = https://github.com/kc0bfv/autophugo.git
+[submodule "themes/classless-blog"]
+	path = themes/classless-blog
+	url = https://gitlab.com/Kaligule/classless-blog
